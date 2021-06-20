@@ -1,4 +1,4 @@
 # projectSRG
 
-<img src="RSGLogo.gif">
+<img src="RSGlogo.gif">
 Random Song Generator Project Using Python 
